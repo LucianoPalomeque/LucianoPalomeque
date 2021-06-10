@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luciano</h1>
 <h3 align="center">A Jr Python developer</h3>
 
+<br>
+<img height='200' width='1000' src='https://kinsta.com/wp-content/uploads/2021/04/Python-1.jpg' />
+
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Take a look at my [website](https://luciano-web.netlify.app/)
